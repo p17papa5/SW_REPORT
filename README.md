@@ -25,7 +25,9 @@
 * Framework [D3](https://d3js.org/ 'D3') για τις οπτικοποίσεις
 * [Anime.js](http://animejs.com/ 'Anime.js') για το κινούμενο κείμενο
 
-η εργασία βασίστηκε στον [κώδικα](https://github.com/ioniodi/D3js-uk-political-donations 'Κώδικα')\
+η εργασία βασίστηκε στον [κώδικα](https://github.com/ioniodi/D3js-uk-political-donations 'Κώδικα')
+
+
 Αναλυτικές αλλαγές:
 *	Δημιουργία καινούργιας ομαδοποίησης με τίτλο Group By The Amount Of Donation
 *	Δημιουργία τρίων κουμπιών για να μπορεί να μεταβεί ο χρήστης στο Bubble, Circle Pack και Bar Chart αντίστοιχα(βρίσκονται στην ίδια σελίδα και όχι σε διαφορετική)
