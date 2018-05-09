@@ -58,14 +58,13 @@
 # Αλλαγές στο κοινό αποθετήριο
 Αρχικά δέσμευσα στο [issue]( 'issue')
 Ανέλαβα να βρω πέντε εικόνες για τους εξείς  δωρητές:
-* [Watford Business Club](http://www.penmansedgwick.com/LinkClick.aspx?fileticket=uPrBJEK3RzM%253d&portalid=0 'Watford Business Club')
-* [BECTU](https://www.google.gr/search?q=BECTU&rlz=1C1CAFA_enGR750GR750&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjc1drAvvjaAhWSw6YKHQ8zBRMQ_AUICigB&biw=1366&bih=672)
-* (https://upload.wikimedia.org/wikipedia/en/e/e9/European_Conservatives_and_Reformists_logo.png 'BECTU')
-* [BFAWU](https://lh3.googleusercontent.com/8U5ESfFsPxoFqmIs7KJdVdx73iL18F62-JR1teTmCDXQx4k-zPmH-LeCamm-azV2tm4=w300 'BFAWU')
-* [Ethical Medicines Industry Group](https://upload.wikimedia.org/wikipedia/en/e/e9/European_Conservatives_and_Reformists_logo.png 'Ethical Medicines Industry Group]')
+* Watford Business Club
+* BECTU
+* BFAWU
+* Ethical Medicines Industry Group
+* European Conservatives and Reformists
+
 * Δημιούργησα επίσης το κατάλληλο csv με ονομα τον αριθμό μητρώου μου και πρόσθεσα το Ονομα, Επίθερο, Εξάμηνο και έθεσα τις τιμές Dileverable1 και 2 με την τιμή true
-
-
 
 ## Σύνδεσμοι πολυμεσικού υλικού
 https://www.shutterstock.com/image-vector/glossy-round-buttons-badges-concerning-flags-348857168
