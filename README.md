@@ -139,19 +139,26 @@ Pull Request Δεύτερου παραδοτέου που έγινε αποδε�
 ![repostats](https://user-images.githubusercontent.com/22703561/39805226-eb5b9d50-537e-11e8-8aeb-a2a0f773ea88.gif)
 
 ## Συμπεράσματα
-Η εργασία της οπτικοποίησης δεδομένων αποτέλεσαι μια ενδιαφέρουσα εργασία η οποία μου βοήθησε τόσο με την εξοικίωση του προγραμματισμού 
+Συμπερασματικά έχει δημιουργηθεί μια σελίδα με οπτικοποισεις δεδομένων που μπορεί να προσφέρει στον επισκέπτη ενδιαφέρον πληροφορίες σχετικά με τα δεδομένα που αναπαριστούν, αλλα παράλληλα λαμβάνει υπόψη του και ανθρώπους με δυσκολίες στην όραση κάτι το οποίο μπορεί 
+είναι πολύ σημαντικό γιατί μπορεί να χρησιμοποίηθει απο τον καθένα. Τέλος το ιστορικό και αυτό με την σειρά του βοηθάει τους χρήστες να μπορούν να θυμηθούν ποιους δώρητες πάτησαν.
 
-## Δικτυογραφία
+
+## Αναφορές
+περιλαμβάνει πολυμεσικό περιεχόμενο καθώς και κομμάτια κώδικα η tutorials που βασίστηκα για την άσκηση.
+
+
+https://www.shareicon.net/arrows-left-right-arrow-doublechevronleftright-double-arrow-113433
 https://www.shutterstock.com/image-vector/glossy-round-buttons-badges-concerning-flags-348857168
 https://bl.ocks.org/mbostock/7607535
+https://jquery.com/
 https://www.dashingd3js.com/d3js-axes
 https://github.com/d3/d3/wiki/Gallery
 http://blockbuilder.org/renecnielsen/9904735
 https://www.w3schools.com/js/js_htmldom.asp
 http://bl.ocks.org/infographicstw/9d61356e9111f09ae16b
 https://bl.ocks.org/tpham27/37d682cc63fc29da314c6d28417fce3f
-
-
- 
+https://www.w3schools.com/
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
 
 
