@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Τίτλος εργασίας: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
-You can use the [editor on GitHub](https://github.com/P15GitHubStudent/SW_REPORT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Ονοματεπώνυμο: Τουλάκης Αλέξανδρος
+### Αριθμός Μητρώου: Π2015067
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Εκτελέσιμο παράδειγμα](https://p15githubstudent.github.io/D3js-uk-political-donations/ 'Εκτελέσιμο παράδειγμα')
+* [Αποθετήριο κώδικα](https://github.com/P15GitHubStudent/D3js-uk-political-donations/tree/gh-pages ' Αποθετήριο κώδικα')
 
-### Markdown
+## Εισαγωγή
+ Στα πλαίσια του μαθήματος Τεχνολογίες Λογισμικού του ΣΤ εξαμήνου επέλεξα την εργασία Data Visualization Πολιτικών δεδομένων με χρήση της βιβλιοθήκης της D3 της Javascript.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/P15GitHubStudent/SW_REPORT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Σύνοψη
+  Η εργασία βάση του [αρχικού κώδικα](https://github.com/ioniodi/D3js-uk-political-donations 'αρχικού κώδικα') που μας δώθηκε, τηρεί τις προϋποθέσεις για τα παραδοτέα του μαθήματος. Επιπλέον, την επέκτεινα με τη προσθήκη ενός νέου γραφήματος  d3 και συγκεκριμένα ενός ραβδογράμματος που μετρά συγχνότητες εμφάνησης, για το πρώτο αρχείο δεδομένων (7500up.csv), σχετικά με τους δότες σε κάθε κατηγορία.
