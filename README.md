@@ -19,7 +19,6 @@
 3.	https://github.com/d3/d3/wiki/Gallery
 4.	https://developer.mozilla.org/el/
 
-
 ## Ανάλυση σχετικών έργων και εργαλείων
 * Λογισμικό για την συγγραφή του κώδικα: [Sublime Text](https://www.sublimetext.com// 'Sublime Text')
 * Λογισμικό επεξεργασίας εικόνων: [Paint.Net](https://www.getpaint.net/ 'Paint.Net')
