@@ -123,6 +123,18 @@ Pull Request Δεύτερου παραδοτέου που έγινε αποδε�
 ![circlepack](https://user-images.githubusercontent.com/22703561/39813027-85968bc4-5397-11e8-992d-988bbc3871d6.gif)
 
 
+* Bar Chart
+ ![barchart](https://user-images.githubusercontent.com/22703561/39803551-f9a9c008-5379-11e8-8f5d-4347d5ff8997.gif)
+
+
+## Αλλαγές στο κοινό αποθετήριο
+
+* κινούμενο κείμενο 
+
+
+![animtext](https://user-images.githubusercontent.com/22703561/39804854-e104a71c-537d-11e8-9a13-5d96da3f890a.gif)
+
+
 ## Σύνδεσμοι πολυμεσικού υλικού
 https://www.shutterstock.com/image-vector/glossy-round-buttons-badges-concerning-flags-348857168
 
