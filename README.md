@@ -96,7 +96,6 @@ Pull Request Δεύτερου παραδοτέου που έγινε αποδε�
 ![googlesearch](https://user-images.githubusercontent.com/22703561/36980536-3c575d08-2093-11e8-8d9a-5ac0b87a8b5a.gif)
 
 
-
 * Μεγένθυση όταν ο δείκτης βρίσκεται πάνω από τις λέξεις του κειμένου.
 
 
@@ -119,12 +118,9 @@ Pull Request Δεύτερου παραδοτέου που έγινε αποδε�
 
 * CirclePack Chart
 
-
 ![circlepack](https://user-images.githubusercontent.com/22703561/39813027-85968bc4-5397-11e8-992d-988bbc3871d6.gif)
 
-
-
-* Bar Chart
+*  Bar Chart
  ![barchart](https://user-images.githubusercontent.com/22703561/39803551-f9a9c008-5379-11e8-8f5d-4347d5ff8997.gif)
 
 
