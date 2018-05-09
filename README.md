@@ -123,8 +123,12 @@ Pull Request Δεύτερου παραδοτέου που έγινε αποδε�
 ![circlepack](https://user-images.githubusercontent.com/22703561/39813027-85968bc4-5397-11e8-992d-988bbc3871d6.gif)
 
 
+
 * Bar Chart
  ![barchart](https://user-images.githubusercontent.com/22703561/39803551-f9a9c008-5379-11e8-8f5d-4347d5ff8997.gif)
+
+
+
 
 
 ## Αλλαγές στο κοινό αποθετήριο
