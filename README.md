@@ -77,6 +77,34 @@ Pull Request πρώτου παραδοτέου που έγινε αποδεκτ�
 
 Pull Request Δεύτερου παραδοτέου που έγινε αποδεκτό:https://github.com/ioniodi/D3js-uk-political-donations/pull/271
 
+## Ενδεικτικές οθόνες και animated gif
+
+# Για Bubble Chart
+
+* Αλλαγή χρωμάτων στις μπάλες με τα δεδομένα, καθώς και στα αντίστοιχα 3 πεδία της ομαδοποίησης Split by party.
+
+![default](https://user-images.githubusercontent.com/22703561/36978016-d0188d94-208b-11e8-8781-5d541fa0ae46.PNG)
+
+* google Search donor 
+
+![googlesearch](https://user-images.githubusercontent.com/22703561/36980536-3c575d08-2093-11e8-8d9a-5ac0b87a8b5a.gif)
+
+* Μεγένθυση όταν ο δείκτης βρίσκεται πάνω από τις λέξεις του κειμένου.
+
+![zoom](https://user-images.githubusercontent.com/22703561/36979657-d5f234e0-2090-11e8-81f9-345f08321da7.gif)
+
+* Νέο κουμπί για νέα ομαδοποίηση δεδομένων καθώς και την υλοποίηση της λειτουργείας αυτής: Split by amount of donation.
+
+![komadopoisi](https://user-images.githubusercontent.com/22703561/36981125-fb68eb0c-2094-11e8-80bb-5632dd4a9ab5.PNG)
+
+# Παραδοτέο 2 
+
+* ιστορικό
+
+![imghist](https://user-images.githubusercontent.com/22703561/39803549-f9622a22-5379-11e8-8b8c-74d9b42e4f6e.gif)
+
+* 
+
 ## Σύνδεσμοι πολυμεσικού υλικού
 https://www.shutterstock.com/image-vector/glossy-round-buttons-badges-concerning-flags-348857168
 
