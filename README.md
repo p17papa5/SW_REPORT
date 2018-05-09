@@ -138,8 +138,14 @@ Pull Request Δεύτερου παραδοτέου που έγινε αποδε�
 
 ![repostats](https://user-images.githubusercontent.com/22703561/39805226-eb5b9d50-537e-11e8-8aeb-a2a0f773ea88.gif)
 
-## Σύνδεσμοι πολυμεσικού υλικού
+## Δικτυογραφία
 https://www.shutterstock.com/image-vector/glossy-round-buttons-badges-concerning-flags-348857168
+https://bl.ocks.org/mbostock/7607535
+https://www.dashingd3js.com/d3js-axes
+https://github.com/d3/d3/wiki/Gallery
+https://www.w3schools.com/js/js_htmldom.asp
+http://bl.ocks.org/infographicstw/9d61356e9111f09ae16b
+https://bl.ocks.org/tpham27/37d682cc63fc29da314c6d28417fce3f
 
 
  
