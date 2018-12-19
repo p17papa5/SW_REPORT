@@ -37,9 +37,9 @@
 ## Αναφορές
 κομμάτια κώδικα ή tutorials που βασίστηκα για την άσκηση.
 
-https://github.com/NorthwoodsSoftware/GoJS
-https://www.sublimetext.com
-https://codepen.io/
-https://www.w3schools.com/
-https://javascript.info/
-https://www.tutorialspoint.com/d3js/
+* https:* //github.com/NorthwoodsSoftware/GoJS
+* https://www.sublimetext.com
+* https://codepen.io/
+* https://www.w3schools.com/
+* https://javascript.info/
+* https://www.tutorialspoint.com/d3js/
